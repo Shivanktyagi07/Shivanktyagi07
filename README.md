@@ -59,11 +59,17 @@ const shivank = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Tools & Platforms**
 
@@ -72,6 +78,24 @@ const shivank = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI & RAG**
+
+![GenAI](https://img.shields.io/badge/GenAI%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white)
+
+**Core Section**
+
+![DSA](https://img.shields.io/badge/DSA-1A56A0?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge&logo=buffer&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge&logo=cisco&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-E65100?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-43A047?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
