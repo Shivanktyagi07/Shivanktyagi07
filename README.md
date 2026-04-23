@@ -145,6 +145,16 @@ const shivank = {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivanktyagi07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=1A56A0&point=ffffff)](https://github.com/Shivanktyagi07)
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
